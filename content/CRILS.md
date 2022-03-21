@@ -132,7 +132,7 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Static-ideal-1.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Static-real-1.png" width="150%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Static-real-1.png" width="70%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/Static-data-1.png" width="70%"/></td>
 </tr>
 </tbody></table>
@@ -148,7 +148,7 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Static-ideal-2.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Static-real-2.png" width="150%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Static-real-2.png" width="70%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/Static-data-2.png" width="70%"/></td>
 </tr>
 </tbody></table>
