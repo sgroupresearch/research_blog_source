@@ -34,11 +34,12 @@ categories = ["MAS"]
 <a href="#2.2">2.2 Relative localization error of backbone agents</a><br>
 <a href="#2.3">2.3 Relative localization error of listener agents</a><br>
 <a href="#2.4">2.4 Simulation platform</a><br>-->
-<b><a href="#Hardware Implementation of Static Scenes">Hardware Implementation of Static Scenes</a></b><br>
-<!-- <a href="#3.1">3.1 Rectangular placement </a><br>
-<a href="#3.2">3.2  Random placement </a><br> -->
 
-<b><a href="#Hardware Implementation of Dynamic Scenes">Hardware Implementation of Dynamic Scenes</a></b><br>
+<b><a href="#Hardware Implementation in Static Scenes">Hardware Implementation in Static Scenes</a></b><br>
+<!-- <a href="#3.1">3.1 Rectangular placement </a><br>
+<a href="#3.2">3.2 Random placement </a><br> -->
+
+<b><a href="#Hardware Implementation in Dynamic Scenes">Hardware Implementation in Dynamic Scenes</a></b><br>
 <!-- <a href="#4.1">4.1 Translation and rotation in relative localization </a><br>
 <a href="#4.2">4.2 Real-world experiment on our practical hardware platform</a><br> -->
 
@@ -77,7 +78,7 @@ categories = ["MAS"]
 <p><em> Relative localization error of backbone agents</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">The proposed BRL algorithm outperforms under two conditions  </th>
+<th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions  </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="50%"/></td>
@@ -110,10 +111,11 @@ categories = ["MAS"]
 </tbody></table>
 
 <p><span id="2.4" name="Simulation platform"></span></p>
-<p><em>Simulation platform</em></p>
+<p><em>The simulation platform is able to visually diplay the  real-time localization results and RMSE</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center"> The real-time localization results and RMSE are visually displayed</th>
+<th style="text-align: center">Display of the simulated data </th>
+<th style="text-align: center">Display of the external input data </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
