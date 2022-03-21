@@ -21,7 +21,7 @@ categories = ["MAS"]
 
 ## Abstract
 
-​	Current and future multi-agent applications strongly rely on precise localization awareness. However, in large-scale networks without absolute position reference, the information transmitted by agents is of limited use, which makes it difficult to achieve high-precision and large-capacity localization. In this paper, we propose a cooperative relative infrastructure-free localization scheme (CRILS) for multi-agent systems in   GNSS-denied environments. Different from traditional triangulation localization methods that need position-known base stations to give absolute coordinates, we introduce a backbone-listener scheme that adaptively select backbone nodes to bring more information to the system, meanwhile, a large amount of listener agents can complete distributed localization. The localization capacity and accuracy are guaranteed in harsh environments due to limited bandwidth or sparse links. The ultra-wideband (UWB) technology is used to obtain high-accuracy range and angle measurements, which are fused  with inertial navigation information in dynamic scenarios by a dead reckoning filtering. We implement the system on a low-cost hardware platform. The relative localization performance has been verified to achieve decimeter-level accuracy, which is close to the theoretical  Cramer–Rao lower bound (CRLB) limit.
+​     Current and future multi-agent applications strongly rely on precise localization awareness. However, in large-scale networks without absolute position reference, the information transmitted by agents is of limited use, which makes it difficult to achieve high-precision and large-capacity localization. In this paper, we propose a cooperative relative infrastructure-free localization scheme (CRILS) for multi-agent systems in   GNSS-denied environments. Different from traditional triangulation localization methods that need position-known base stations to give absolute coordinates, we introduce a backbone-listener scheme that adaptively select backbone nodes to bring more information to the system, meanwhile, a large amount of listener agents can complete distributed localization. The localization capacity and accuracy are guaranteed in harsh environments due to limited bandwidth or sparse links. The ultra-wideband (UWB) technology is used to obtain high-accuracy range and angle measurements, which are fused  with inertial navigation information in dynamic scenarios by a dead reckoning filtering. We implement the system on a low-cost hardware platform. The relative localization performance has been verified to achieve decimeter-level accuracy, which is close to the theoretical  Cramer–Rao lower bound (CRLB) limit.
 
 
 <h2 id="Contents">Contents</h2>
@@ -51,8 +51,8 @@ categories = ["MAS"]
 <th style="text-align: center">The Backbone-Listener  architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/system_model.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="85%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/system_model.png" width="85%"/></td>
 </tr>
 </tbody></table>
 
@@ -68,8 +68,8 @@ categories = ["MAS"]
 <th style="text-align: center">SPEB comparison for different node activation strategies</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/node_act.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/nodeact_results.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/node_act.png" width="80%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/nodeact_results.png" width="80%"/></td>
 </tr>
 </tbody></table>
 
