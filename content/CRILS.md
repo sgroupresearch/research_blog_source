@@ -120,7 +120,7 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Simu_platform2.gif" width="93%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Simu_platform2.gif" width="92%"/></td>
 </tr>
 </tbody></table>
 
