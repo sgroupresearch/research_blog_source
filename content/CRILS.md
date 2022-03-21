@@ -50,7 +50,7 @@ categories = ["MAS"]
 <table><thead>
 <tr>
 <th style="text-align: center">The CRILS architecture</th>
-<th style="text-align: center">The Backbone-Listener  architecture</th>
+<th style="text-align: center">Illustration of the Backbone-Listener architecture</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="85%"/></td>
