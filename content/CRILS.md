@@ -105,7 +105,7 @@ categories = ["MAS"]
 <th style="text-align: center">CDF of localization error of listener agents</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/cdf.png" width="50%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/cdf.png" width="40%"/></td>
 </tr>
 </tbody></table>
 
@@ -113,7 +113,7 @@ categories = ["MAS"]
 <p><em>Simulation platform</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center"> The simulation platform is able to visually display the localization results as well as the real-time localization error</th>
+<th style="text-align: center"> The platform visually displays the localization results and real-time error</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
@@ -154,7 +154,7 @@ categories = ["MAS"]
 </tbody></table>
 
 
-<h2 id="Hardware Implementation in Dynamic Scenes"> Hardware Implementation in Dynamic Scenes</h2>
+<h2 id="Hardware Implementation in Dynamic Scenes"> Hardware Implementation in dynamic Scenes</h2>
 <p><span id="4.1" name="Translation and rotation in relative localization"></span></p>
 <p><em> Translation and rotation in relative localization</em></p>
 <table><thead>
@@ -162,7 +162,7 @@ categories = ["MAS"]
 <th style="text-align: center"> Translation and rotation do not affect topology estimation in relative localizaiton scenarios </th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/relative.gif" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/relative.gif" width="75%"/></td>
 </tr>
 </tbody></table>
 
