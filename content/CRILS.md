@@ -175,7 +175,7 @@ categories = ["MAS"]
 
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/dynamic.gif" width="75%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/dynamic.gif" width="70%"/></td>
 </tr>
 </tbody></table>
 
