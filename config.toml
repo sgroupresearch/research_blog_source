@@ -1,0 +1,17 @@
+baseurl = "https://sgroupresearch.github.io/"
+languageCode = "en"
+title = "SGroup Research"
+author = "SGroup Research"
+
+[permalinks]
+    post = "/:filename/"
+
+[params]
+  author    = "MultiAgentsResearch"
+  github    = "MultiAgentsResearch"
+  analytics = "UA-139981676-1"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
