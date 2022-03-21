@@ -36,8 +36,9 @@ categories = ["MAS"]
 <a href="#2.4">2.4 Simulation platform</a><br>-->
 
 <b><a href="#Hardware Implementation in Static Scenes">Hardware Implementation in Static Scenes</a></b><br>
-<!-- <a href="#3.1">3.1 Rectangular placement </a><br>
-<a href="#3.2">3.2 Random placement </a><br> -->
+<!-- <a href="#3.1">3.1  Illustrations of the hardware platform </a><br>
+<a href="#3.2">3.2 Rectangular placement  </a><br> 
+<a href="#3.3">3.3 Random placement </a><br>-->
 
 <b><a href="#Hardware Implementation in Dynamic Scenes">Hardware Implementation in Dynamic Scenes</a></b><br>
 <!-- <a href="#4.1">4.1 Translation and rotation in relative localization </a><br>
@@ -124,7 +125,20 @@ categories = ["MAS"]
 </tbody></table>
 
 <h2 id="Hardware Implementation in Static Scenes"> Hardware Implementation in Static Scenes</h2>
-<p><span id="3.1" name="Rectangular placement"></span></p>
+<p><span id="3.1" name="Illustrations of the hardware platform"></span></p>
+<p><em> Illustrations of the hardware platform</em></p>
+<table><thead>
+<tr>
+<th style="text-align: center"> The 4-antenna UWB array </th>
+<th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><img src="../images/CRILS/array.png" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/car.png" width="100%"/></td>
+</tr>
+</tbody></table>
+
+<p><span id="3.2" name="Rectangular placement"></span></p>
 <p><em> Rectangular placement</em></p>
 <table><thead>
 <tr>
@@ -140,7 +154,7 @@ categories = ["MAS"]
 </tbody></table>
 
 
-<p><span id="3.2" name="Random placement"></span></p>
+<p><span id="3.3" name="Random placement"></span></p>
 <p><em> Random placement</em></p>
 <table><thead>
 <tr>
