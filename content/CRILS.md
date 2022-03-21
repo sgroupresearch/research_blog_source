@@ -133,8 +133,18 @@ categories = ["MAS"]
 <th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/array.png" width="80%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/array.png" width="100%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/car.png" width="75%"/></td>
+</tr>
+</tbody></table>
+<table><thead>
+<tr>
+<th style="text-align: center"> The  OptiTrack  motion  capture  system </th>
+<th style="text-align: center"> The experiment in an actual scene</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><img src="../images/CRILS/figure_hardware.png" width="80%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/realsense.jpg" width="80%"/></td>
 </tr>
 </tbody></table>
 
