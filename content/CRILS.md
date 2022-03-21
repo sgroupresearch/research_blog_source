@@ -133,7 +133,7 @@ categories = ["MAS"]
 <th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/array.png" width="120%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/array.png" width="130%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/car.png" width="75%"/></td>
 </tr>
 </tbody></table>
@@ -143,7 +143,7 @@ categories = ["MAS"]
 <th style="text-align: center"> Photo of the experiment in an actual scene</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/figure_hardware.png" width="85%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/figure_hardware.png" width="87%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/realsense.jpg" width="85%"/></td>
 </tr>
 </tbody></table>
