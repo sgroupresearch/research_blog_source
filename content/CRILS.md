@@ -133,8 +133,8 @@ categories = ["MAS"]
 <th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/array.png" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/car.png" width="80%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/array.png" width="110%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/car.png" width="75%"/></td>
 </tr>
 </tbody></table>
 
