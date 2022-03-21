@@ -80,7 +80,7 @@ categories = ["MAS"]
 <th style="text-align: center">Relative Localization error of backbone agents </th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="50%"/></td>
 </tr>
 </tbody></table>
 
@@ -105,7 +105,7 @@ categories = ["MAS"]
 <th style="text-align: center">CDF of localization error of listener agents</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/cdf.png" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/cdf.png" width="50%"/></td>
 </tr>
 </tbody></table>
 
