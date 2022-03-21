@@ -113,7 +113,7 @@ categories = ["MAS"]
 <p><em>Simulation platform</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">CDF of localization error of listener agents</th>
+<th style="text-align: center"> The simulation platform is able to visually display the localization results as well as the real-time localization error</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
@@ -132,14 +132,14 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Static-ideal-1.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Static-real-1.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Static-real-1.png" width="150%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/Static-data-1.png" width="70%"/></td>
 </tr>
 </tbody></table>
 
 
 <p><span id="3.2" name="Random placement"></span></p>
-<p><em> andom placement</em></p>
+<p><em> Random placement</em></p>
 <table><thead>
 <tr>
 <th style="text-align: center">Ideal topology </th>
@@ -148,7 +148,7 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Static-ideal-2.png" width="70%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Static-real-2.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Static-real-2.png" width="150%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/Static-data-2.png" width="70%"/></td>
 </tr>
 </tbody></table>
@@ -171,11 +171,11 @@ categories = ["MAS"]
 <p><em> Real-world experiment on our practical hardware platform</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center"> Extensive  real-world  experimentsdemonstrate   that   the   proposed   system   achievesdecimeter-level relative localization accuracy </th>
+<th style="text-align: center"> Extensive  real-world  experiments validate our system   achieves decimeter-level relative localization accuracy </th>
 
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/dynamic.gif" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/dynamic.gif" width="75%"/></td>
 </tr>
 </tbody></table>
 
