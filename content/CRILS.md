@@ -26,7 +26,7 @@ categories = ["MAS"]
 
 <h2 id="Contents">Contents</h2>
 
-<b><a href="#architecture">Architecture</a></b><br>
+<b><a href="#Architecture">Architecture</a></b><br>
 <!-- <a href="#1.1">1.1 The CRILS architecture</a><br>-->
 
 <b><a href="#Simulation Results">Simulation Results</a></b><br>
@@ -77,7 +77,7 @@ categories = ["MAS"]
 <p><em> Relative localization error of backbone agents</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">Relative Localization error of backbone agents </th>
+<th style="text-align: center">The proposed BRL algorithm outperforms under two conditions  </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="50%"/></td>
@@ -113,7 +113,7 @@ categories = ["MAS"]
 <p><em>Simulation platform</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center"> The platform visually displays the localization results and real-time error</th>
+<th style="text-align: center"> The real-time localization results and RMSE are visually displayed</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
@@ -154,7 +154,7 @@ categories = ["MAS"]
 </tbody></table>
 
 
-<h2 id="Hardware Implementation in Dynamic Scenes"> Hardware Implementation in dynamic Scenes</h2>
+<h2 id="Hardware Implementation in Dynamic Scenes"> Hardware Implementation in Dynamic Scenes</h2>
 <p><span id="4.1" name="Translation and rotation in relative localization"></span></p>
 <p><em> Translation and rotation in relative localization</em></p>
 <table><thead>
