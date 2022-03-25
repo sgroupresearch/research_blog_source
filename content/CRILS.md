@@ -33,7 +33,7 @@ categories = ["MAS"]
 <!-- <a href="#2.1">2.1 Node activation strategies</a><br>
 <a href="#2.2">2.2 Relative localization error of backbone agents</a><br>
 <a href="#2.3">2.3 Relative localization error of listener agents</a><br>
-<a href="#2.4">2.4 Performance gain from node activation in dynamic simulation </a><br>
+<a href="#2.4">2.4 Performance gain from GNA in dynamic scence </a><br>
 <a href="#2.5">2.5 Simulation platform</a><br>-->
 
 <b><a href="#Hardware Implementation in Static Scenes">Hardware Implementation in Static Scenes</a></b><br>
@@ -112,12 +112,12 @@ categories = ["MAS"]
 </tr>
 </tbody></table>
 
-<p><span id="2.4" name="Performance gain from node activation in dynamic simulation"></span></p>
-<p><em>Performance gain from node activation in dynamic simulation</em></p>
+<p><span id="2.4" name="Performance gain from GNA in dynamic scence"></span></p>
+<p><em>Performance gain from GNA in dynamic scence</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">Demonstration of node activation for changing topology </th>
-<th style="text-align: center">GNA strategy (in blue) significantly reduces error accumulation   </th>
+<th style="text-align: center">The GNA strategy change anchor configuration when topologically deformed </th>
+<th style="text-align: center">The GNA strategy (in blue) significantly reduces error accumulation   </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/dynamic_test.gif" width="100%"/></td>
