@@ -33,7 +33,8 @@ categories = ["MAS"]
 <!-- <a href="#2.1">2.1 Node activation strategies</a><br>
 <a href="#2.2">2.2 Relative localization error of backbone agents</a><br>
 <a href="#2.3">2.3 Relative localization error of listener agents</a><br>
-<a href="#2.4">2.4 Simulation platform</a><br>-->
+<a href="#2.4">2.4 Performance gain from node activation in dynamic simulation </a><br>
+<a href="#2.5">2.5 Simulation platform</a><br>-->
 
 <b><a href="#Hardware Implementation in Static Scenes">Hardware Implementation in Static Scenes</a></b><br>
 <!-- <a href="#3.1">3.1  Illustrations of the hardware platform </a><br>
@@ -111,7 +112,20 @@ categories = ["MAS"]
 </tr>
 </tbody></table>
 
-<p><span id="2.4" name="Simulation platform"></span></p>
+<p><span id="2.4" name="Performance gain from node activation in dynamic simulation"></span></p>
+<p><em>Performance gain from node activation in dynamic simulation</em></p>
+<table><thead>
+<tr>
+<th style="text-align: center">Demonstration of node activation for changing topology </th>
+<th style="text-align: center">Performance  comparisons  with/without GNA strategy  </th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><img src="../images/CRILS/dynamic_test.gif" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/dynamic_error.gif" width="91%"/></td>
+</tr>
+</tbody></table>
+
+<p><span id="2.5" name="Simulation platform"></span></p>
 <p><em>The simulation platform is able to visually diplay the  real-time localization results and RMSE</em></p>
 <table><thead>
 <tr>
@@ -120,7 +134,7 @@ categories = ["MAS"]
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/Simu_platform1.gif" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/Simu_platform2.gif" width="92%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/Simu_platform2.gif" width="91%"/></td>
 </tr>
 </tbody></table>
 
