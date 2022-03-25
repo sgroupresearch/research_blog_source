@@ -116,7 +116,7 @@ categories = ["MAS"]
 <p><em>Performance gain from GNA in dynamic scence</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">The GNA strategy change anchor configuration when topologically deformed </th>
+<th style="text-align: center">The GNA strategy changes the anchor configuration when topologically deformed </th>
 <th style="text-align: center">The GNA strategy (in blue) significantly reduces error accumulation   </th>
 </tr></thead><tbody>
 <tr>
