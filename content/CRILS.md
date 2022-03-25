@@ -117,11 +117,11 @@ categories = ["MAS"]
 <table><thead>
 <tr>
 <th style="text-align: center">Demonstration of node activation for changing topology </th>
-<th style="text-align: center">Performance  comparisons  with/without GNA strategy  </th>
+<th style="text-align: center">GNA strategy (in blue) significantly reduces error accumulation   </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/dynamic_test.gif" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CRILS/dynamic_error.gif" width="91%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/dynamic_error.gif" width="90%"/></td>
 </tr>
 </tbody></table>
 
