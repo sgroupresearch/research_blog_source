@@ -53,7 +53,7 @@ categories = ["MAS"]
 <th style="text-align: center">The CRILS architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="80%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="70%"/></td>
 </tr>
 </tbody></table>
 <table><thead>
@@ -62,7 +62,7 @@ categories = ["MAS"]
 <th style="text-align: center">The dead reckoning filtering scheme</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/system_model.png" width="90%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/system_model.png" width="100%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/DRFS.png" width="70%"/></td>
 </tr>
 </tbody></table>
@@ -78,7 +78,7 @@ categories = ["MAS"]
 <th style="text-align: center">SPEB comparison for different node activation strategies</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/nodeact_results.png" width="60%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/nodeact_results.png" width="50%"/></td>
 </tr>
 </tbody></table>
 
@@ -87,6 +87,7 @@ categories = ["MAS"]
 <table><thead>
 <tr>
 <th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions  </th>
+
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="60%"/></td>
