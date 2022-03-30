@@ -58,7 +58,7 @@ categories = ["MAS"]
 </tbody></table>
 <table><thead>
 <tr>
-<th style="text-align: center">Illustration of the Backbone-Listener architecture</th>
+<th style="text-align: center">The Backbone-Listener architecture</th>
 <th style="text-align: center">The dead reckoning filtering scheme</th>
 </tr></thead><tbody>
 <tr>
@@ -82,19 +82,17 @@ categories = ["MAS"]
 </tr>
 </tbody></table>
 
- 
-
-
-<p><span id="2.2" name="Relative localization error of backbone agents"></span></p>
+ <p><span id="2.2" name="Relative localization error of backbone agents"></span></p>
 <p><em> Relative localization error of backbone agents</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions </th>
+<th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CRILS/BRL_results.png" width="60%"/></td>
 </tr>
 </tbody></table>
+
 
 
 <p><span id="2.3" name="Relative localization error of listener agents"></span></p>
