@@ -51,11 +51,19 @@ categories = ["MAS"]
 <table><thead>
 <tr>
 <th style="text-align: center">The CRILS architecture</th>
-<th style="text-align: center">Illustration of the Backbone-Listener architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="85%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/CRILS.png" width="100%"/></td>
+</tr>
+</tbody></table>
+<table><thead>
+<tr>
+<th style="text-align: center">Illustration of the Backbone-Listener architecture</th>
+<th style="text-align: center">The dead reckoning filtering scheme</th>
+</tr></thead><tbody>
+<tr>
 <td style="text-align: center"><img src="../images/CRILS/system_model.png" width="85%"/></td>
+<td style="text-align: center"><img src="../images/CRILS/DRFS.png" width="85%"/></td>
 </tr>
 </tbody></table>
 
@@ -67,11 +75,9 @@ categories = ["MAS"]
 <p><em> Node Activation Strategies</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center">The geometric  interpretation  of node activation</th>
 <th style="text-align: center">SPEB comparison for different node activation strategies</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CRILS/node_act.png" width="80%"/></td>
 <td style="text-align: center"><img src="../images/CRILS/nodeact_results.png" width="80%"/></td>
 </tr>
 </tbody></table>
