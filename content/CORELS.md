@@ -114,7 +114,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <th style="text-align: center">CDF of relative localization error </th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/cdf.png" width="40%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/cdf.png" width="60%"/></td>
 </tr>
 </tbody></table>
 
@@ -127,7 +127,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CORELS/dynamic_test.gif" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CORELS/dynamic_error.gif" width="90%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/dynamic_error.gif" width="70%"/></td>
 </tr>
 </tbody></table>
 
