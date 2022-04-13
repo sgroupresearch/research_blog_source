@@ -52,7 +52,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <th style="text-align: center">The CORELS architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/CORELS.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/CORELS.png" width="60%"/></td>
 </tr>
 </tbody></table>
 <table><thead>
@@ -62,7 +62,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CORELS/system_model.png" width="100%"/></td>
-<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="70%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="85%"/></td>
 </tr>
 </tbody></table>
 
@@ -88,7 +88,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/BRL_results.png" width="60%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/BRL_results.png" width="50%"/></td>
 </tr>
 </tbody></table>
 
