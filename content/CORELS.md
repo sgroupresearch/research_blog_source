@@ -15,6 +15,7 @@ categories = ["MAS"]
 - Xiaoxiang Li (EE, Tsinghua University) <lxx17@mails.tsinghua.edu.cn>
 - Kai Ma (EE, Tsinghua University) <mk19@mails.tsinghua.edu.cn>
 - Lingwei Xu (EE, Tsinghua University) <xlw18@mails.tsinghua.edu.cn>
+- Yunlong Wang (EE, Tsinghua University) < ylwang_ee@tsinghua.edu.cn>
 - Jian Wang (EE, Tsinghua University) <jian-wang@tsinghua.edu.cn>
 - Yuan Shen (EE, Tsinghua University) <shenyuan_ee@tsinghua.edu.cn>
 
