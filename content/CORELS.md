@@ -31,10 +31,9 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 
 <b><a href="#Simulation Results">Simulation Results</a></b><br>
 <!-- <a href="#2.1">2.1 Node activation strategies</a><br>
-<a href="#2.2">2.2 Relative localization error of backbone agents</a><br>
-<a href="#2.3">2.3 Relative localization error of listener agents</a><br>
-<a href="#2.4">2.4 Performance gain from GNA in dynamic scence </a><br>
-<a href="#2.5">2.5 Simulation platform</a><br>-->
+<a href="#2.2">2.2 Localizaition performance of the distributed relative localization algorithm      for static scenes      </a><br>
+<a href="#2.3">2.3 Localizaition performance of  DRFS for dynamic scence </a><br>
+<a href="#2.4">2.4 Simulation platform</a><br>-->
 
 <b><a href="#Hardware Implementation in Static Scenes">Hardware Implementation in Static Scenes</a></b><br>
 <!-- <a href="#3.1">3.1  Illustrations of the hardware platform </a><br>
@@ -82,21 +81,9 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 </tr>
 </tbody></table>
 
- <p><span id="2.2" name="Relative localization error of backbone agents"></span></p>
-<p><em> Relative localization error of backbone agents</em></p>
-<table><thead>
-<tr>
-<th style="text-align: center">The proposed BRL algorithm outperforms other benchmarks under two conditions</th>
-</tr></thead><tbody>
-<tr>
-<td style="text-align: center"><img src="../images/CORELS/BRL_results.png" width="50%"/></td>
-</tr>
-</tbody></table>
 
-
-
-<p><span id="2.3" name="Relative localization error of listener agents"></span></p>
-<p><em>Relative localization error of listener agents</em></p>
+<p><span id="2.2" name="Localizaition performance of the distributed relative localization algorithm      for static scenes  "></span></p>
+<p><em>Localizaition performance of the distributed relative localization algorithm      for static scenes  </em></p>
 <table><thead>
 <tr>
 <th style="text-align: center">RMSE  distribution  of  TDoA-based algorithm  </th>
@@ -110,6 +97,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 </tr>
 </tbody></table>
 
+
 <table><thead>
 <tr>
 <th style="text-align: center">CDF of relative localization error </th>
@@ -118,13 +106,12 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <td style="text-align: center"><img src="../images/CORELS/cdf.png" width="60%"/></td>
 </tr>
 </tbody></table>
-
-<p><span id="2.4" name="Performance gain from GNA in dynamic scence"></span></p>
-<p><em>Performance gain from GNA in dynamic scence</em></p>
+<p><span id="2.3" name="Localizaition performance of  DRFS for dynamic scence"></span></p>
+<p><em>Localizaition performance of  DRFS for dynamic scence</em></p>
 <table><thead>
 <tr>
 <th style="text-align: center">The GNA strategy changes the anchor configuration when topologically deformed </th>
-<th style="text-align: center">The GNA strategy (in blue) significantly reduces error accumulation   </th>
+<th style="text-align: center">The DRFS (in blue) significantly reduces error accumulation   </th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CORELS/dynamic_test.gif" width="100%"/></td>
@@ -132,7 +119,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 </tr>
 </tbody></table>
 
-<p><span id="2.5" name="Simulation platform"></span></p>
+<p><span id="2.4" name="Simulation platform"></span></p>
 <p><em>The simulation platform is able to visually diplay the  real-time localization results and RMSE</em></p>
 <table><thead>
 <tr>
@@ -144,6 +131,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <td style="text-align: center"><img src="../images/CORELS/Simu_platform2.gif" width="91%"/></td>
 </tr>
 </tbody></table>
+
 
 <h2 id="Hardware Implementation in Static Scenes"> Hardware Implementation in Static Scenes</h2>
 <p><span id="3.1" name="Illustrations of the hardware platform"></span></p>
