@@ -90,7 +90,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <tr>
 <th style="text-align: center">RMSE  distribution  of  TDoA-based algorithm  </th>
 <th style="text-align: center">RMSE  distribution  of  TDoA-AoA-based algorithm</th>
-<th style="text-align: center">RMSE  distribution  of  The proposed algorithm</th>
+<th style="text-align: center">RMSE  distribution  of  the proposed algorithm</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CORELS/tdoa.png" width="80%"/></td>
