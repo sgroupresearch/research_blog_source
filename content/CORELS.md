@@ -21,7 +21,9 @@ categories = ["MAS"]
 
 
 ## Abstract
-Reliable and accurate spatio-temporal information is of great importance for multi-agent networks. Cooperative relativelocalization technologies provide a promising paradigm for such information, especially in GNSS-denied or infrastructure-freescenarios without absolute position reference. In this paper, we develop a cooperative relative localization system (CORELS) formulti-agent networks to achieve high-precision and low-latency capability. A backbone-listener architecture is proposed to encalbelarge-scale agents to complete high-precision localization. Backbone agents are selected to reduce information loss caused bytopological deformity, and meanwhile a large amount of listener agents complete position and orientation angle estimationsimultaneously. The localization capacity and accuracy are still maintained in harsh environments with limited bandwidth or sparselinks. Different from traditional triangulation localization methods, CORELS has no prerequisites for position-known base stations. Thelocalization capability is extend to relative dynamic scenarios by a dead reckoning filtering scheme, where spatio-temporal cooperationare accomplished by information fusion of ranging, angle and inertial navigation measurements. Moreover, we implement CORELS ona low-cost hardware platform with the ultra-wideband technology. Extensive simulation and real-world experiments demonstrate thatthe proposed system achieves decimeter-level relative localization, which is close to the theoretical Cramer–Rao lower bound  limit.
+Reliable and accurate spatio-temporal information is of great importance for multi-agent networks.  Cooperative relative localization technologies provide a promising paradigm for such information, especially in GNSS-denied or infrastructure-free scenarios without absolute position reference. In this paper, we develop a cooperative relative localization system (CORELS) to achieve high-precision and low-latency localization capability for distributed multi-agent networks. 
+A backbone-listener scheme is proposed to enable large-scale  agents to complete high-precision localization. Backbone agents are selected  to reduce information loss caused by malformed topology, and meanwhile a large amount of listener agents complete position and orientation angle  estimation simultaneously. Different from traditional triangulation localization methods, CORELS has no prerequisites for position-known base stations. The localization accuracy is improved by
+a  back  calibration algorithm which makes use of the measurements and localization results of  agents‘ neighbours. The distributed localization capability is extend to relative dynamic scenes by a dead reckoning filtering scheme, where spatio-temporal cooperation are accomplished by information fusion of ranging, angle and inertial navigation measurements. Moreover, we implement CORELS on a low-cost hardware platform. Extensive simulation and real-world experiments demonstrate that the proposed system achieves decimeter-level relative localization, which is close to the theoretical   Cramer–Rao lower bound  limit.
 
 
 <h2 id="Contents">Contents</h2>
@@ -103,7 +105,7 @@ Reliable and accurate spatio-temporal information is of great importance for mul
 <th style="text-align: center">CDF of relative localization error </th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/cdf.png" width="60%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/cdf.png" width="50%"/></td>
 </tr>
 </tbody></table>
 <p><span id="2.3" name="Localizaition performance of  DRFS for dynamic scence"></span></p>
