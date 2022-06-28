@@ -2,7 +2,7 @@
 
 date = "2022-03-19T15:30:00+09:01"
 draft = false
-title = "CORELS:  A Cooperative Relative LocalizationSystem for Multi-agent Networks" 
+title = "CORELS:  A Cooperative Relative Localization System for Multi-agent Networks" 
 tags  = ["MAS-RelLoc"]
 categories = ["MAS"]
 
@@ -140,11 +140,9 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <p><em> Illustrations of the hardware platform</em></p>
 <table><thead>
 <tr>
-<th style="text-align: center"> The 4-antenna UWB array </th>
 <th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/array.png" width="130%"/></td>
 <td style="text-align: center"><img src="../images/CORELS/car.png" width="75%"/></td>
 </tr>
 </tbody></table>
