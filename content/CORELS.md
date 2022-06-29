@@ -62,7 +62,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center">The Backbone-Listener architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/system_model.png" width="60%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/system_model.png" width="40%"/></td>
 </tr>
 </tbody></table>
 </tbody></table>
@@ -71,7 +71,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center">The dead reckoning filtering scheme</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="75%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="65%"/></td>
 </tr>
 </tbody></table>
 </tbody></table>
