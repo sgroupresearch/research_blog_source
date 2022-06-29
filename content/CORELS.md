@@ -60,14 +60,29 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <table><thead>
 <tr>
 <th style="text-align: center">The Backbone-Listener architecture</th>
-<th style="text-align: center">The dead reckoning filtering scheme</th>
 </tr></thead><tbody>
 <tr>
 <td style="text-align: center"><img src="../images/CORELS/system_model.png" width="100%"/></td>
+</tr>
+</tbody></table>
+</tbody></table>
+<table><thead>
+<tr>
+<th style="text-align: center">The dead reckoning filtering scheme</th>
+</tr></thead><tbody>
+<tr>
 <td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="85%"/></td>
 </tr>
 </tbody></table>
-
+</tbody></table>
+<table><thead>
+<tr>
+<th style="text-align: center">llustration of the coordinate transformation</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align: center"><img src="../images/CORELS/CT.png" width="100%"/></td>
+</tr>
+</tbody></table>
 
 
 <h2 id="Simulation Results"> Simulation Results</h2>
