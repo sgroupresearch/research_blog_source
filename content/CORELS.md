@@ -62,7 +62,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center">The Backbone-Listener architecture</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/system_model.png" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/system_model.png" width="60%"/></td>
 </tr>
 </tbody></table>
 </tbody></table>
@@ -71,7 +71,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center">The dead reckoning filtering scheme</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="85%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/DRFS.png" width="75%"/></td>
 </tr>
 </tbody></table>
 </tbody></table>
@@ -80,7 +80,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center">llustration of the coordinate transformation</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/CT.png" width="100%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/CT.png" width="70%"/></td>
 </tr>
 </tbody></table>
 
@@ -158,7 +158,7 @@ a  back  calibration algorithm which makes use of the measurements and localizat
 <th style="text-align: center"> The  intelligent  agent  (vehicle)  and  its  architecture diagram</th>
 </tr></thead><tbody>
 <tr>
-<td style="text-align: center"><img src="../images/CORELS/car.png" width="75%"/></td>
+<td style="text-align: center"><img src="../images/CORELS/car.png" width="65%"/></td>
 </tr>
 </tbody></table>
 <table><thead>
