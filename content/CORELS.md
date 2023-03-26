@@ -13,17 +13,17 @@ categories = ["MAS"]
 ## Authors
 
 - Xiaoxiang Li (EE, Tsinghua University) <lxx17@mails.tsinghua.edu.cn>
+- Yunlong Wang(EE, Tsinghua University)ylwang_ee@mails.tsinghua.edu.cn
 - Kai Ma (EE, Tsinghua University) <mk19@mails.tsinghua.edu.cn>
 - Lingwei Xu (EE, Tsinghua University) <xlw18@mails.tsinghua.edu.cn>
-- Yunlong Wang (EE, Tsinghua University) < ylwang_ee@tsinghua.edu.cn>
+- Zexu Zhang ( Institute of Aircraft Dynamics and Control, HIT) <zexuzhang@hit.edu.cn>
 - Jian Wang (EE, Tsinghua University) <jian-wang@tsinghua.edu.cn>
+- Yu Wang (EE, Tsinghua University) <yu-wang@tsinghua.edu.cn>
 - Yuan Shen (EE, Tsinghua University) <shenyuan_ee@tsinghua.edu.cn>
 
 
 ## Abstract
-Reliable and accurate spatio-temporal information is of great importance for multi-agent networks.  Cooperative relative localization technologies provide a promising paradigm for such information, especially in GNSS-denied or infrastructure-free scenarios without absolute position reference. In this paper, we develop a cooperative relative localization system (CORELS) to achieve high-precision and low-latency localization capability for distributed multi-agent networks. 
-A backbone-listener scheme is proposed to enable large-scale  agents to complete high-precision localization. Backbone agents are selected  to reduce information loss caused by malformed topology, and meanwhile a large amount of listener agents complete position and orientation angle  estimation simultaneously. Different from traditional triangulation localization methods, CORELS has no prerequisites for position-known base stations. The localization accuracy is improved by
-a  back  calibration algorithm which makes use of the measurements and localization results of  agents‘ neighbours. The distributed localization capability is extend to relative dynamic scenes by a dead reckoning filtering scheme, where spatio-temporal cooperation are accomplished by information fusion of ranging, angle and inertial navigation measurements. Moreover, we implement CORELS on a low-cost hardware platform. Extensive simulation and real-world experiments demonstrate that the proposed system achieves decimeter-level relative localization, which is close to the theoretical   Cramer–Rao lower bound  limit.
+While absolute position information is inaccessible for  multi-agent networks due to the lack of global reference in GNSS-denied or infrastructure-free scenarios, relative pose information among the agents can be obtained via the exploitation of agent cooperation. In this paper, we develop a cooperative relative localization system  to achieve high-precision localization capability for distributed  multi-agent networks. A backbone-listener scheme is proposed  to complete large-scale distributed localization. Backbone agents are selected by a node activation strategy to reduce information loss caused by malformed topology.  Meanwhile, listener agents complete position and orientation angle  estimation simultaneously. A  back  calibration algorithm    utilizes the measurements and estimated positions of the listener agents to improve the localization accuracy.  In dynamic scenes, a multi-sensory information fusion scheme is proposed, where a coordinate transformation method is proposed to reduce the    accumulated error   caused by the coordinate misalignment. Moreover, the system is implemented  on a low-cost hardware platform  with the ultra-wideband radios.  Extensive simulations and real-world experiments demonstrate that the proposed system can achieve decimeter-level relative localization accuracy.
 
 
 <h2 id="Contents">Contents</h2>
