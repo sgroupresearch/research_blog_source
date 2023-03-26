@@ -2,7 +2,7 @@
 
 date = "2022-03-19T15:30:00+09:01"
 draft = false
-title = "CORELS:  A Cooperative Relative Localization System for Multi-agent Networks" 
+title = "A Cooperative Relative Localization System for Distributed Multi-agent Networks" 
 tags  = ["MAS-RelLoc"]
 categories = ["MAS"]
 
